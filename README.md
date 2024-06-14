@@ -1,23 +1,23 @@
 ![MasterHead](https://img.freepik.com/premium-vector/game-developer-typographic-header_277904-9142.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Alp Akinci</h1>
-<h3 align="center">I am a passionate Game Developer</h3>
+<h3 align="center">I am a passionate Software Engeneer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpakinci&label=Profile%20views&color=0e75b6&style=flat" alt="alpakinci" /> </p>
 
 - 🔭 I’m currently working on a game called [DeletedFiles](https://github.com/AlpAkinci/DeletedFilesDemo.git)
 
-- 🌱 I’m currently learning **C and Java Script**
+- I’m currently learning **C and Java Script**
 
-- 👯 I’m looking to collaborate on **Unity Projects**
+- I’m looking to collaborate on **Unity Projects**
 
-- 🤝 I’m looking for help with **Modeling and Audio Design**
+- I’m looking for help with **Modeling and Audio Design**
 
-- 💬 Ask me about **Java and C#**
+- Ask me about **Java and C#**
 
-- 📫 How to reach me **alp.akinci78@gmail.com**
+- How to reach me **alp.akinci78@gmail.com**
 
-- ⚡ Fun fact **I like Avocados and usually use it as my mascot**
+- Fun fact **I like Avocados and usually use it as my mascot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
